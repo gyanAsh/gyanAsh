@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @gyanAsh
-- 👀 I’m interested in doing things that are more than ordanary .
-- 🌱 I’m currently learning Web and Mobile Development
+- 👀 I'm a software enthusiast who loves creating helpful tools for the community or businesses.
+- 🌱 Currently learning Web and Mobile Development
 - 📫 How to reach me ? Well you can Mail me : gyanashekka1738@gmail.com
 
 <!---
