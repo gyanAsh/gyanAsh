@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Gyan Ashish Ekka</h1>
 <h3 align="center">A passionate frontend developer from India</h3>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=gyanash&label=Profile%20views&color=0e75b6&style=flat" alt="gyanash" /> </p>
+<p align="center"> <img src="https://media.giphy.com/media/ZKQpx4TYrxTtS/giphy.gif" alt="gyanash" /> </p>
 
 - 🌱 I’m currently learning **Firebase,Next.js,GSAP,Express and SpringBoot**
 
