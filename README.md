@@ -1,5 +1,5 @@
-<h1 align="center">Hi 👋, I'm Gyan Ashish Ekka</h1>
-<h3 align="center">A passionate frontend developer from India</h3>
+<h1 align="center"><img src="https://media.giphy.com/media/3o7TKMt1VVNkHV2PaE/giphy.gif" alt="Hi 👋" width="50" height="50" /> , I'm Gyan Ashish Ekka</h1>
+<h3 align="center">A passionate frontend developer from India</h3> 
 
 <p align="center"> <img src="https://media.giphy.com/media/ZKQpx4TYrxTtS/giphy.gif" alt="gyanash" /> </p>
 
