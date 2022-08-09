@@ -9,8 +9,11 @@
 
 - 📫 How to reach me **gyanashekka1738@gmail.com**
 
-<h3 align="left">Connect with me:</h3>
+<h3 align="left">Connect with me on Twitter:</h3>
 <p align="left">
+<a href="https://twitter.com/Ish_Ekko" target="_blank" rel="noreferrer">
+@Ish_Ekko
+</a>
 </p>
 
 <h3 align="left">Languages and Tools I'm familiar with:</h3>
