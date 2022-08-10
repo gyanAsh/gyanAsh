@@ -1,4 +1,4 @@
-<h1 align="center"><img src="https://media.giphy.com/media/3o7TKMt1VVNkHV2PaE/giphy.gif" alt="Hi 👋" width="50" height="50" /> , I'm Gyan Ashish Ekka</h1>
+<h1 align="center"><img src="https://blog.joypixels.com/content/images/2019/06/waving_hand_sign_1024.gif" alt="Hi 👋" width="50" height="50" /> , I'm Gyan Ashish Ekka</h1>
 <h3 align="center">A passionate frontend developer from India</h3> 
 
 <p align="center"> <img src="https://media.giphy.com/media/ZKQpx4TYrxTtS/giphy.gif" alt="gyanash" /> </p>
