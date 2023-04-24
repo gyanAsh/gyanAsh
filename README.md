@@ -11,8 +11,8 @@
 
 <h3 align="left">Connect with me on Twitter:</h3>
 <p align="left">
-<a href="https://twitter.com/Ish_Ekko" target="_blank" rel="noreferrer">
-@Ish_Ekko
+<a href="https://twitter.com/ekkkoish" target="_blank" rel="noreferrer">
+@ekkkoish
 </a>
 </p>
 
